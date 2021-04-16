@@ -1,4 +1,3 @@
-<!-- cSpell.language:en-GB -->
 # Tks Requirements
 
 ## Ecosystems
@@ -30,13 +29,29 @@ We believe that this is the real promise of Crypto. Crypto with its focus on non
 
 We believe that crypto has arrived at this critical juncture in human evolution to provide us with all the tools, techniques and technologies to not only choose another path but to also create this new path as we walk it.
 
+## Trust and Reputation in tribal groups
+
+Historically when we lived in small tribal groups we could track the behaviour and trustworthy of each individual based on their previous performance. We could reliably track the reputation of every person that we interact with in our heads. We knew who the best hunter was the best fisherman and the one who made the best canoes. Basically we could reliably assess our risk and opportunity in cocreating with, lending, borrowing or exchanging products with anyone in our immediate community. This natural system had the benefit of being able to make very rational decisions wrt to all our economic and social activity. The capacity to track reputation has an additional and critical side effect and that is that all members of the community are directly incentivised to behave well or at least well enough towards the other members of the community because their economic activity and even survival would be threatened if they developed a reputation as a bad actor. In a system like this there are obviously also many other side effects mostly relating to individual expression
+
+* A massive reduction in individual expression through immense social and economic pressure to conform to potentially restrictive social norms of the tribal group.
+* Limited opportunities to specialise around your own particular interests, desires, skills and personality.
+* Limited opportunity to collaborate and co-create with other individuals or groups who share a common interest.
+
+## A brief history of economic development from the perspective of Collaboration, Trust and Individual expression
+
+Economic dev - larger groups collaborating, creating, learning and sharing, tribal groups then bigger groups.
+
 ## The Role of Trust in an economic system
 
-Trust is the most precious commodity in our economy it is what allows us to engage with each other socially and economically in the safety that we will not be harmed, abused or taken advantage of. In the past the best systems that we knew how to create where systems where Trust was placed in the hands of trusted authorities (The Church in the dark ages, Kings and Queens, nation states, governments, education, doctors, big corporations) and yet time and again these centralised authorities have abused this trust using the authority that they derived from the position of trust to increasingly serve their own narrow needs and in so doing dominating and disenfranchising us the very people that they were originally intended to serve.
+Since Trust is once the most precious commodity in our economy. Trusting our partners it is what allows us to engage with each other socially and economically in the safety that we will not be harmed, abused, scammed or taken advantage of. In the past the best systems that we knew how to create where systems where Trust was placed in the hands of trusted authorities (The Church in the dark ages, Kings and Queens, nation states, governments, education, doctors, big corporations) and yet time and again these centralised authorities have abused this trust using the authority that they derived from the position of trust to increasingly serve their own narrow needs and in so doing dominating and disenfranchising us the very people that they were originally intended to serve.
+
+
 
 And yet we have had no choice but to continue to use these structures as despite all the disadvantages they still provide the basic trust mechanisms by which human collaboration and co-creation is organised.
 
 ## The future of Trust and a new economic system
+
+
 
 Trust is the most precious commodity in our econo
 
