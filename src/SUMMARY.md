@@ -1,3 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Tks Background](./Tks_specification.md)
+- [Self Sovereign Identity](./self_sovereign_identity.md)
+- [Reputation](./Reputation.md)
