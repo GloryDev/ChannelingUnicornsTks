@@ -29,6 +29,10 @@ Identity - controlled by the user
 Claims on Identity - made by the user or made by another user or group.
 Claim - A statement about an Identity - e.g. a persons age, a rating of trustworthiness
  an assessment of a skill etc
+Credentials - Entitlement to privileges usually in written form (usually state issued id paper or plastic).
+ credentials usually includes one or more identifiers plus numerous claims about an entity.
+Identifier - Name or label that uniquely identifies an identity.
+Identity - representation of an entity. Can include claims and identifiers.
 The user should always be in control of his or her identity.
 User must be able to easily view all data and claims associated with his identity. 
 This does not mean that they can necessarily modify the claims but they must have 
