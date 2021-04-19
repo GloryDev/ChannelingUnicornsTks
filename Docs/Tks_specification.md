@@ -29,9 +29,24 @@ We believe that this is the real promise of Crypto. Crypto with its focus on non
 
 We believe that crypto has arrived at this critical juncture in human evolution to provide us with all the tools, techniques and technologies to not only choose another path but to also create this new path as we walk it.
 
-## Trust and Reputation in tribal groups
+## A Brief History of Collaborative Creation
 
-Historically when we lived in small tribal groups we could track the behaviour and trustworthy of each individual based on their previous performance. We could reliably track the reputation of every person that we interact with in our heads. We knew who the best hunter was the best fisherman and the one who made the best canoes. Basically we could reliably assess our risk and opportunity in cocreating with, lending, borrowing or exchanging products with anyone in our immediate community. This natural system had the benefit of being able to make very rational decisions wrt to all our economic and social activity. The capacity to track reputation has an additional and critical side effect and that is that all members of the community are directly incentivised to behave well or at least well enough towards the other members of the community because their economic activity and even survival would be threatened if they developed a reputation as a bad actor. In a system like this there are obviously also many other side effects mostly relating to individual expression
+As with everything in the Dao of life when in reviewing our history we see not only the seeds that grew into the uniquely human beings that we are today with all our incredible gifts and contributions but also the seeds of the very crises that we find ourselves in today.
+In the early recesses of our history we as a naked ape somehow found ourselves in the Savanna. Genetic analysis shows that we faced near extinction with less than 100 individuals, things were so severe that all of humanities genetic material stems from one mitochondrial eve. As naked two legged apes we were relatively slow, we had insignificant teeth and claws, with soft hides. The perfect prey animal and yet we not only survived this near extinction but instead we thrived as a species eventually living on every continent on earth, we became so adaptive that we a single species inhabits the extremes of subtropical jungles, deserts and frozen icecaps. We became the most fierce and dangerous hunters on the planet. What did our ancient ancestors do that allowed them to become so adaptive, so versatile and so powerful that we can threaten our very existence while showing all the promise of awakening to an entirely new state of consciousness, a deeper awareness of and in ourselves, each other and the earth herself?
+
+### Collaboration
+
+As apes we had a natural ability to engage in deep social relationships, to live in tightly knit collaborate troupes with nuanced social structures. Somehow we took this innate ability to collaborate deeply for collective good and added a capacity to envision longer time periods, to plan and organise activity over longer time periods. This capacity to collaborate, plan and strategise turned our capacity as two legged animals to breath more deeply while running and thus extending the time that we could run for into a massive hunting advantage, as a tag team we could literally run our four legged prey into exhaustion. Slowly through this collaboration along with the creativity below we transformed from one of the weakest prey animals into fierce hunters.
+
+### Creativity, contemplation and learning
+
+As we developed as hunters we slowly manoeuvred ourselves off of the endangered list and began to create enough space and safety that our deep collaboration and social bonds allowed us to begin to create together. We began by overcoming the limitations of our small teeth and weak nails by adapting rocks and sticks into tools for digging roots and cutting through animal skins, these eventually developed into tools for hunting and most recently space rockets, pokemon go, the internet and crypto. Creativity requires something very different an entirely anyone who has contemplated themselves creating will see that creativity involves a different type of thinking than the thinking required during hunting, scanning for predators or fighting for survival. Creativity thrives on having time and space where focus can be placed entirely on feeling and sensing the idea that is wanting to evolve, this is often called being in the Zone or Flow state. For this time and space to occur we need to feel safe enough, safe enough in our environment and safe enough within our tribe. We have all had the experience that it is incredibly difficult to create something new when our nervous system has been activated through some real or imagined existential threat.
+
+
+
+As we evolved moved learning away from genetic and epigenetics to an full bodied learning.
+
+Historically when we lived in small tribal groups we would track the behaviour and trustworthy of each person based on their previous performance. Since our number of interactions was in the 100's at most we could reliably track the reputation of each and every person that we interact with in our heads. We knew the best hunter, the best fisherman and the best canoe builder, we knew that if we gave the hind leg of an antelope to X they would in time repay this debt with fruit, bananas, music or friendship. Basically we could reliably assess our risk and opportunity in cocreating with, lending, borrowing or exchanging products with anyone in our immediate community. This natural system had the benefit of being able to make very rational decisions wrt to all our economic and social activity. The capacity to track reputation has an additional and critical side effect and that is that all members of the community are directly incentivised to behave well or at least well enough towards the other members of the community because their economic activity and even survival would be threatened if they developed a reputation as a bad actor. In a system like this there are obviously also many other side effects mostly relating to individual expression
 
 * A massive reduction in individual expression through immense social and economic pressure to conform to potentially restrictive social norms of the tribal group.
 * Limited opportunities to specialise around your own particular interests, desires, skills and personality.
@@ -66,5 +81,8 @@ Tks is a token designed to enhance collaborative human creativity. With the adve
 
 We believe that Crytp
 
+Staking your reputation
 
-  
+Crypto is a very fight for our freedom. But not the usual fight that we have seen before instead we are building systems that are impermeable to government control.
+
+Historically the person with the biggest guns and the willingness to use them gains the most power and influence.
